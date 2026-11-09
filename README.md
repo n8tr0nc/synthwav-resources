@@ -1,2 +1,2 @@
-# supra-tokens
-All Supra blockchain tokens
+# Synthwav Resources
+coming soon...
